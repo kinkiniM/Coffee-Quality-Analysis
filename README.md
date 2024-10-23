@@ -1,6 +1,6 @@
 # Coffee-Quality-Analysis
 
-Project Overview
+# Project Overview
 The Coffee Quality Institute (CQI) works to improve the quality and value of coffee worldwide through research, training, and certification. This project aims to analyze a rich dataset provided by CQI, which includes sensory evaluations, production details, and defect information. By exploring these factors, we aim to understand the determinants of coffee quality, identify correlations between various variables, and uncover insights that can help improve coffee standards globally.
 
 Objective
